@@ -1,0 +1,8 @@
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\bin\Debug\PTB2.exe.config
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\bin\Debug\PTB2.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\bin\Debug\PTB2.pdb
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\obj\Debug\PTB2.csproj.AssemblyReference.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\obj\Debug\PTB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\obj\Debug\PTB2.csproj.CoreCompileInputs.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\obj\Debug\PTB2.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\ThamChieu\PTB2\PTB2\obj\Debug\PTB2.pdb
